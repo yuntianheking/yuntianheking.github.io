@@ -92,11 +92,11 @@ class Snowflake {
     }
   }
   function newyear() {
-    document.getElementById('title').innerText = 'Happy Spring Festival';
-    document.getElementById('day').innerText = '新年';
-    document.getElementById('hour').innerText = '快乐';
-    document.getElementById('minute').innerText = '呆比';
-    document.getElementById('second').innerText = '睡觉哥';
+    document.getElementById('title').innerText = '祝潘潘好运无穷';
+    document.getElementById('day').innerText = '兔';
+    document.getElementById('hour').innerText = '年';
+    document.getElementById('minute').innerText = '快';
+    document.getElementById('second').innerText = '乐';
   }
   var time = setInterval(() => {
     show_runtime();
